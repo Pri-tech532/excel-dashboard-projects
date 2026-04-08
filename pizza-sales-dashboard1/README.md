@@ -30,13 +30,6 @@ The dashboard provides insights into sales performance, customer preferences, an
 - 📉 Underperforming items observed  
 
 ---
-
-## 📸 Dashboard Preview
-
-![Pizza Sales Dashboard](dashboard.png)
-
----
-
 ## 📂 Files Included
 
 - `pizza-sales-dashboard.xlsx` → Main dashboard file  
