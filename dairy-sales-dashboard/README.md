@@ -2,14 +2,14 @@
 
 ## 📊 Overview
 This project presents an interactive **Dairy Sales Dashboard** built using Microsoft Excel.  
-The dashboard provides insights into sales performance, customer preferences, and revenue trends.
+The dashboard provides insights into sales performance of different brands and milk products, customer preferences, and revenue trends.
 
 ---
 
 ## 🎯 Objectives
 
 - Analyze overall dairy sales performance  
-- Identify top-selling milk products and categories  
+- Identify top-selling milk products, categories and Companies 
 - Understand sales trends over time  
 - Extract business insights for decision-making  
 
@@ -26,7 +26,7 @@ The dashboard provides insights into sales performance, customer preferences, an
 
 -  🥛 Top-selling milk products identified  
 - 📊 Revenue trends analyzed across time  
-- 🏆 Best-performing products highlighted  
+- 🏆 Best-performing products and Companies highlighted  
 - 📉 Underperforming items observed  
 
 ---
