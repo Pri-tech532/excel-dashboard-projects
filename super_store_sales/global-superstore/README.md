@@ -25,7 +25,7 @@ This repository showcases the use of core analytical features in Excel to handle
 
 ## 📂 Dataset Details
 
-* **Source:** Global Superstore (Standard Retail Dataset).
+* **Source:** Global Superstore (Provided for learning purposes).
 * **Records:** 51,290 unique orders.
 * **Coverage:** 165 countries across 5 global markets (Africa, Asia Pacific, Europe, LATAM, US).
 * **Categories:** Technology, Furniture, and Office Supplies.
